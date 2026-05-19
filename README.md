@@ -12,7 +12,7 @@ It extracts syllabus sections, builds embeddings with SentenceTransformers, inde
 - Optional “LLM answer mode” (you can add later)
 
 ## Screenshots
-> Put images in `assets/` and update filenames if needed.
+
 
 ![Screenshot 1](assets/screenshot1.png)
 ![Screenshot 2](assets/screenshot2.png)
