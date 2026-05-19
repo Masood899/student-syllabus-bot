@@ -13,10 +13,13 @@ It extracts syllabus sections, builds embeddings with SentenceTransformers, inde
 
 ## Screenshots
 
+first screen shot shows the retrieval of chunks
+![Screenshot 1](assets/screenshot1.jpeg)
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
-![Screenshot 3](assets/screenshot3.png)
+second and third screenshots show the model generating a valid output from the retrieved chunks
+
+![Screenshot 2](assets/screenshot2.jpeg)
+![Screenshot 3](assets/screenshot3.jpeg)
 
 ## Quickstart (Local)
 ### 1) Create environment + install
